@@ -1,0 +1,20 @@
+{
+  "name": "approvals-config-factory",
+  "version": "1.0.0",
+  "description": "Factory for constructing js approvals configurations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "approvals",
+    "config",
+    "configuration",
+    "helper"
+  ],
+  "author": "Chris Stead",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "signet": "^3.11.3"
+  }
+}
